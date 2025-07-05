@@ -1,0 +1,276 @@
+[
+  {
+    "id": "deep-sleep-v1",
+    "title": "Deep sleep",
+    "coverUrl": "sleep_deep-v1.jpg",
+    "description": "Prepare-se para uma jornada guiada por uma voz suave, música relaxante e efeitos que ampliam sua imersão.",
+    "premium": false,
+    "category": "sleep",
+    "speakers": [
+      {
+        "id": "thomas",
+        "name": "👨🏼‍🦰 Thomas",
+        "gender": "male",
+        "localizations": [
+          {
+            "code": "pt-br",
+            "voiceSampleFileName": "thomas.sample.pt-br.mp3",
+            "tracks": [
+              {
+                "id": "thomas.pretalk-v1.pt-br",
+                "sequence": 0,
+                "durationInMinutes": 1.3,
+                "sizeInMB": 3.7,
+                "type": "pretalk",
+                "loops": 1,
+                "offsetSec": 3,
+                "language": "pt-br",
+                "fileName": "thomas.pretalk-v1.pt-br.mp3"
+              },
+              {
+                "id": "thomas.induction-v1.pt-br",
+                "sequence": 1,
+                "durationInMinutes": 7.3,
+                "sizeInMB": 21.0,
+                "type": "induction",
+                "loops": 1,
+                "offsetSec": 2,
+                "language": "pt-br",
+                "fileName": "thomas.induction-v1.pt-br.mp3"
+              },
+              {
+                "id": "thomas.deepener-v1.pt-br",
+                "sequence": 2,
+                "durationInMinutes": 3.3,
+                "sizeInMB": 9.5,
+                "type": "deepener",
+                "loops": 1,
+                "offsetSec": 2,
+                "language": "pt-br",
+                "fileName": "thomas.deepener-v1.pt-br.mp3"
+              },
+              {
+                "id": "thomas.suggestion-v1.pt-br",
+                "sequence": 3,
+                "durationInMinutes": 10.3,
+                "sizeInMB": 30.0,
+                "type": "suggestion",
+                "loops": 1,
+                "offsetSec": 3,
+                "language": "pt-br",
+                "fileName": "thomas.suggestion-v1.pt-br.mp3"
+              },
+              {
+                "id": "thomas.awakening-v1.pt-br",
+                "sequence": 4,
+                "durationInMinutes": 2.3,
+                "sizeInMB": 6.8,
+                "type": "awakening",
+                "loops": 1,
+                "offsetSec": 5,
+                "language": "pt-br",
+                "fileName": "thomas.awakening-v1.pt-br.mp3"
+              },
+              {
+                "id": "thomas.postSuggestion-v1.pt-br",
+                "sequence": 5,
+                "durationInMinutes": 1.5,
+                "sizeInMB": 4.0,
+                "type": "postSuggestion",
+                "loops": 1,
+                "offsetSec": 1,
+                "language": "pt-br",
+                "fileName": "thomas.postSuggestion-v1.pt-br.mp3"
+              }
+            ]
+          },
+          {
+            "code": "en-uk",
+            "voiceSampleFileName": "thomas.sample.en-uk.mp3",
+            "tracks": [
+              {
+                "id": "thomas.pretalk-v1.en-uk",
+                "sequence": 0,
+                "durationInMinutes": 1.3,
+                "sizeInMB": 3.7,
+                "type": "pretalk",
+                "loops": 1,
+                "offsetSec": 3,
+                "fileName": "thomas.pretalk-v1.en-uk.mp3"
+              },
+              {
+                "id": "thomas.induction-v1.en-uk",
+                "sequence": 1,
+                "durationInMinutes": 7.3,
+                "sizeInMB": 21.0,
+                "type": "induction",
+                "loops": 1,
+                "offsetSec": 2,
+                "fileName": "thomas.induction-v1.en-uk.mp3"
+              },
+              {
+                "id": "thomas.deepener-v1.en-uk",
+                "sequence": 2,
+                "durationInMinutes": 3.3,
+                "sizeInMB": 9.5,
+                "type": "deepener",
+                "loops": 1,
+                "offsetSec": 2,
+                "fileName": "thomas.deepener-v1.en-uk.mp3"
+              },
+              {
+                "id": "thomas.suggestion-v1.en-uk",
+                "sequence": 3,
+                "durationInMinutes": 10.3,
+                "sizeInMB": 30.0,
+                "type": "suggestion",
+                "loops": 1,
+                "offsetSec": 3,
+                "fileName": "thomas.suggestion-v1.en-uk.mp3"
+              },
+              {
+                "id": "thomas.awakening-v1.en-uk",
+                "sequence": 4,
+                "durationInMinutes": 2.3,
+                "sizeInMB": 6.8,
+                "type": "awakening",
+                "loops": 1,
+                "offsetSec": 5,
+                "fileName": "thomas.awakening-v1.en-uk.mp3"
+              },
+              {
+                "id": "thomas.postSuggestion-v1.en-uk",
+                "sequence": 5,
+                "durationInMinutes": 1.5,
+                "sizeInMB": 4.0,
+                "type": "postSuggestion",
+                "loops": 1,
+                "offsetSec": 1,
+                "fileName": "thomas.postSuggestion-v1.en-uk.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maggie",
+        "name": "👱🏼‍♀️ Maggie",
+        "gender": "female",
+        "localizations": [
+          {
+            "code": "pt-br",
+            "voiceSampleFileName": "maggie.sample.pt-br.mp3",
+            "tracks": [
+              { "id": "maggie.pretalk-v1.pt-br",    "sequence": 0, "durationInMinutes": 1.3, "sizeInMB": 3.7, "type": "pretalk",    "loops":1, "offsetSec":3, "language":"pt-br", "fileName":"maggie.pretalk-v1.pt-br.mp3" },
+              { "id": "maggie.induction-v1.pt-br",  "sequence": 1, "durationInMinutes": 7.3, "sizeInMB":21.0, "type": "induction", "loops":1, "offsetSec":2, "language":"pt-br", "fileName":"maggie.induction-v1.pt-br.mp3" },
+              { "id": "maggie.deepener-v1.pt-br",   "sequence": 2, "durationInMinutes": 3.3, "sizeInMB": 9.5, "type": "deepener",  "loops":1, "offsetSec":2, "language":"pt-br", "fileName":"maggie.deepener-v1.pt-br.mp3" },
+              { "id": "maggie.suggestion-v1.pt-br", "sequence": 3, "durationInMinutes":10.3, "sizeInMB":30.0, "type": "suggestion","loops":1, "offsetSec":3, "language":"pt-br", "fileName":"maggie.suggestion-v1.pt-br.mp3" },
+              { "id": "maggie.awakening-v1.pt-br",  "sequence": 4, "durationInMinutes": 2.3, "sizeInMB": 6.8, "type": "awakening", "loops":1, "offsetSec":5, "language":"pt-br", "fileName":"maggie.awakening-v1.pt-br.mp3" },
+              { "id": "maggie.postSuggestion-v1.pt-br","sequence":5, "durationInMinutes": 1.5,"sizeInMB": 4.0, "type": "postSuggestion","loops":1,"offsetSec":1,"language":"pt-br","fileName":"maggie.postSuggestion-v1.pt-br.mp3"}
+            ]
+          },
+          {
+            "code": "en-uk",
+            "voiceSampleFileName": "maggie.sample.en-uk.mp3",
+            "tracks": [
+              { "id": "maggie.pretalk-v1.en-uk",    "sequence": 0, "durationInMinutes": 1.3, "sizeInMB": 3.7, "type": "pretalk",    "loops":1, "offsetSec":3, "language":"en-uk", "fileName":"maggie.pretalk-v1.en-uk.mp3" },
+              { "id": "maggie.induction-v1.en-uk",  "sequence": 1, "durationInMinutes": 7.3, "sizeInMB":21.0, "type": "induction", "loops":1, "offsetSec":2, "language":"en-uk", "fileName":"maggie.induction-v1.en-uk.mp3" },
+              { "id": "maggie.deepener-v1.en-uk",   "sequence": 2, "durationInMinutes": 3.3, "sizeInMB": 9.5, "type": "deepener",  "loops":1, "offsetSec":2, "language":"en-uk", "fileName":"maggie.deepener-v1.en-uk.mp3" },
+              { "id": "maggie.suggestion-v1.en-uk", "sequence": 3, "durationInMinutes":10.3, "sizeInMB":30.0, "type": "suggestion","loops":1, "offsetSec":3, "language":"en-uk", "fileName":"maggie.suggestion-v1.en-uk.mp3" },
+              { "id": "maggie.awakening-v1.en-uk",  "sequence": 4, "durationInMinutes": 2.3, "sizeInMB": 6.8, "type": "awakening", "loops":1, "offsetSec":5, "language":"en-uk", "fileName":"maggie.awakening-v1.en-uk.mp3" },
+              { "id": "maggie.postSuggestion-v1.en-uk","sequence":5, "durationInMinutes": 1.5,"sizeInMB":4.0, "type": "postSuggestion","loops":1,"offsetSec":1,"language":"en-uk","fileName":"maggie.postSuggestion-v1.en-uk.mp3"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eve",
+        "name": "👩🏻 Eve Lynn",
+        "gender": "female",
+        "localizations": [
+          {
+            "code": "en-uk",
+            "voiceSampleFileName": "eve.sample.en-uk.mp3",
+            "tracks": [
+              { "id": "eve.pretalk-v1.en-uk",    "sequence": 0, "durationInMinutes":1.3, "sizeInMB":3.7, "type":"pretalk",    "loops":1, "offsetSec":3, "language":"en-uk","fileName":"eve.pretalk-v1.en-uk.mp3" },
+              { "id": "eve.induction-v1.en-uk",  "sequence": 1, "durationInMinutes":7.3, "sizeInMB":21.0,"type":"induction", "loops":1, "offsetSec":2, "language":"en-uk","fileName":"eve.induction-v1.en-uk.mp3" },
+              { "id": "eve.deepener-v1.en-uk",   "sequence": 2, "durationInMinutes":3.3, "sizeInMB":9.5, "type":"deepener",  "loops":1, "offsetSec":2, "language":"en-uk","fileName":"eve.deepener-v1.en-uk.mp3" },
+              { "id": "eve.suggestion-v1.en-uk", "sequence": 3, "durationInMinutes":10.3,"sizeInMB":30.0,"type":"suggestion","loops":1, "offsetSec":3, "language":"en-uk","fileName":"eve.suggestion-v1.en-uk.mp3" },
+              { "id": "eve.awakening-v1.en-uk",  "sequence": 4, "durationInMinutes":2.3, "sizeInMB":6.8, "type":"awakening","loops":1, "offsetSec":5, "language":"en-uk","fileName":"eve.awakening-v1.en-uk.mp3" },
+              { "id": "eve.postSuggestion-v1.en-uk","sequence":5,"durationInMinutes":1.5,"sizeInMB":4.0,"type":"postSuggestion","loops":1,"offsetSec":1,"language":"en-uk","fileName":"eve.postSuggestion-v1.en-uk.mp3"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ander",
+        "name": "👨🏼‍🦲 Ander",
+        "gender": "male",
+        "localizations": [
+          {
+            "code": "pt-br",
+            "voiceSampleFileName": "ander.sample.pt-br.mp3",
+            "tracks": [
+              { "id": "ander.pretalk-v1.pt-br",    "sequence": 0, "durationInMinutes":1.3, "sizeInMB":3.7, "type":"pretalk",    "loops":1, "offsetSec":3, "language":"pt-br","fileName":"ander.pretalk-v1.pt-br.mp3" },
+              { "id": "ander.induction-v1.pt-br",  "sequence": 1, "durationInMinutes":7.3, "sizeInMB":21.0,"type":"induction", "loops":1, "offsetSec":2, "language":"pt-br","fileName":"ander.induction-v1.pt-br.mp3" },
+              { "id": "ander.deepener-v1.pt-br",   "sequence": 2, "durationInMinutes":3.3, "sizeInMB":9.5, "type":"deepener",  "loops":1, "offsetSec":2, "language":"pt-br","fileName":"ander.deepener-v1.pt-br.mp3" },
+              { "id": "ander.suggestion-v1.pt-br", "sequence": 3, "durationInMinutes":10.3,"sizeInMB":30.0,"type":"suggestion","loops":1, "offsetSec":3, "language":"pt-br","fileName":"ander.suggestion-v1.pt-br.mp3" },
+              { "id": "ander.awakening-v1.pt-br",  "sequence": 4, "durationInMinutes":2.3, "sizeInMB":6.8, "type":"awakening","loops":1, "offsetSec":5, "language":"pt-br","fileName":"ander.awakening-v1.pt-br.mp3" },
+              { "id": "ander.postSuggestion-v1.pt-br","sequence":5,"durationInMinutes":1.5,"sizeInMB":4.0,"type":"postSuggestion","loops":1,"offsetSec":1,"language":"pt-br","fileName":"ander.postSuggestion-v1.pt-br.mp3"}
+            ]
+          }
+        ]
+      }
+    ],
+    "ambienceTracks": [
+      {
+        "id": "zen-music-001",
+        "title": "Zen Music",
+        "sequence": -2,
+        "name": "zen-music-001",
+        "durationInMinutes": 4.3,
+        "sizeInMB": 3.5,
+        "type": "music",
+        "loops": null,
+        "offsetSec": 0,
+        "fileName":"zen-music-001.mp3"
+      },
+    {
+        "id": "soft-music-001",
+        "title": "Zen Music",
+        "sequence": -2,
+        "name": "soft-music-001",
+        "durationInMinutes": 4.3,
+        "sizeInMB": 3.5,
+        "type": "music",
+        "loops": null,
+        "offsetSec": 0,
+        "fileName":"soft-music-001.mp3"
+      },
+      {
+        "id": "wind-effect-001",
+        "title": "Wind",
+        "sequence": -1,
+        "name": "wind-effect-001",
+        "durationInMinutes": 0.48,
+        "sizeInMB": 3.6,
+        "type": "effect",
+        "loops": null,
+        "offsetSec": 0,
+        "fileName":"wind-effect-001.mp3"
+      },
+      {
+        "id": "waves-effect-001",
+        "title": "Waves",
+        "sequence": -1,
+        "name": "waves-effect-001",
+        "durationInMinutes": 0.48,
+        "sizeInMB": 3.6,
+        "type": "effect",
+        "loops": null,
+        "offsetSec": 0,
+        "fileName":"waves-effect-001.mp3"
+      }
+    ]
+  }
+]
