@@ -233,11 +233,12 @@
         "type": "music",
         "loops": null,
         "offsetSec": 0,
-        "fileName":"zen-music-001.mp3"
+        "fileName":"zen-music-001.mp3",
+        "sampleFileName": "zen-music-001.sample.mp3"
       },
     {
         "id": "soft-music-001",
-        "title": "Zen Music",
+        "title": "Soft Music",
         "sequence": -2,
         "name": "soft-music-001",
         "durationInMinutes": 4.3,
@@ -245,7 +246,8 @@
         "type": "music",
         "loops": null,
         "offsetSec": 0,
-        "fileName":"soft-music-001.mp3"
+        "fileName":"soft-music-001.mp3",
+        "sampleFileName": "soft-music-001.sample.mp3"
       },
       {
         "id": "wind-effect-001",
@@ -257,7 +259,8 @@
         "type": "effect",
         "loops": null,
         "offsetSec": 0,
-        "fileName":"wind-effect-001.mp3"
+        "fileName":"wind-effect-001.mp3",
+        "sampleFileName": "wind-effect-001.sample.mp3"
       },
       {
         "id": "waves-effect-001",
@@ -269,7 +272,8 @@
         "type": "effect",
         "loops": null,
         "offsetSec": 0,
-        "fileName":"waves-effect-001.mp3"
+        "fileName":"waves-effect-001.mp3",
+        "sampleFileName": "waves-effect-001.sample.mp3"
       }
     ]
   }
