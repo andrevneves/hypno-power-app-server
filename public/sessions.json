@@ -225,7 +225,7 @@
     "ambienceTracks": [
       {
         "id": "zen-music-001",
-        "title": "Zen Music",
+        "title": "🧘🏽‍♂️ Zen Music",
         "sequence": -2,
         "name": "zen-music-001",
         "durationInMinutes": 4.3,
@@ -238,7 +238,7 @@
       },
     {
         "id": "soft-music-001",
-        "title": "Soft Music",
+        "title": "🪉 Soft Music",
         "sequence": -2,
         "name": "soft-music-001",
         "durationInMinutes": 4.3,
@@ -251,7 +251,7 @@
       },
       {
         "id": "wind-effect-001",
-        "title": "Wind",
+        "title": "🎐 Wind",
         "sequence": -1,
         "name": "wind-effect-001",
         "durationInMinutes": 0.48,
@@ -264,7 +264,7 @@
       },
       {
         "id": "waves-effect-001",
-        "title": "Waves",
+        "title": "🌊 Waves",
         "sequence": -1,
         "name": "waves-effect-001",
         "durationInMinutes": 0.48,
